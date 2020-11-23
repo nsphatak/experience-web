@@ -18,7 +18,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<account-summary-experience-api.version>0.0.1-SNAPSHOT</account-summary-experience-api.version>
-		
+
 	</properties>
 
 	<dependencies>
@@ -33,8 +33,6 @@
 			<artifactId>account-summary-experience-api</artifactId>
 			<version>${account-summary-experience-api.version}</version>
 		</dependency>
-
-		
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
